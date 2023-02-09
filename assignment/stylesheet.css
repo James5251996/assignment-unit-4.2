@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+}
+.info {
+    background-color: red;
+    color: aliceblue;
+    margin-right: 750px;
+}
+header {
+    background-color: red;
+    color: aliceblue;
+    margin-right: 750px;
+}
+img {
+    width: 500px;
+}
+h3 {
+    background-color: red;
+    color: aliceblue;
+    margin-right: 750px;
+}
